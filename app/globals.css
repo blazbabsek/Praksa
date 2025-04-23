@@ -5,38 +5,3 @@ body {
   background-color: beige;
 }
 
-footer {
-  background-color: #181c31;
-  color: #ffffff;
-  padding: 40px 0px;
-  text-align: center;
-}
-
-.header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 30px;
-  background-color: #fff;
-}
-.logo-container {
-  display: flex;
-  align-items: center;
-}
-
-.logo {
-  height: 60px;
-  margin-right: 10px;
-}
-
-.nav a {
-  margin-left: 30px;
-  text-decoration: none;
-  font-size: 18px;
-  color: #121327;
-  transition: color 0.3s ease;
-}
-
-.nav a:hover {
-  color: #e67e22;
-}
