@@ -8,7 +8,7 @@ export default function Header() {
     <header className="fixed left-0 top-0 w-full z-50 bg-white shadow-md transition duration-200">
       <div className="mx-auto max-w-1390 px-4 md:px-8 2xl:px-0 flex items-center justify-between py-4">
         <div className="flex items-center">
-          <Image src="/logo.svg" alt="Logo" width={120} height={40} className=""/>
+          <Image src="/logo.svg" alt="Logo" width={120} height={40} />
         </div>
         <nav className="hidden lg:flex items-center space-x-6 text-black dark:text-white">
           <Link href="/" className="text-[16px] text-[#121327] no-underline transition-colors duration-300 hover:text-[red]">
