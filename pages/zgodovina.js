@@ -1,4 +1,4 @@
-import RootLayout from "../app/layout.js";
+import RootLayout from "../app/(frontend)/layout";
 
 export default function zgodovina() {
   return (

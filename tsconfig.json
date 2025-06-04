@@ -33,7 +33,7 @@
     ".next/types/**/*.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "app/components/RichText.jsxž"  ],
   "exclude": [
     "node_modules"
   ]
